@@ -1,7 +1,9 @@
 # 👋 Olá, eu sou Vanessa Samanta Barp
 
-🎓 Estudante da Aprendizagem Industrial em asistente adiministrativo termino em 2024 e  programador de sistemas 
- Estudante da Aprendizagem Industrial em programador de sistemas
+🎓 Aprendizagem Industrial em asistente adiministrativo termino em 2024 e  programador de sistemas 
+ Estudante da Aprendizagem Industrial em programador de sistemas da informação.(SENAI) contratado pela Empresa
+🎓Estudante do 2° segundo ano da escola cecília vivam
+ 
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
@@ -34,9 +36,9 @@ Meu objetivo é desenvolver habilidades tecnológicas e criar projetos que contr
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
-📌 Projeto 1 – [criar um site]  
-📌 Projeto 2 – [desenvolver um projeto inovador]  
-📌 Projeto 3 – [e criar muitas outras ferramentas]  
+📌 Projeto 1 – criar um site  
+📌 Projeto 2 – desenvolver um projeto inovador
+📌 Projeto 3 – e criar muitas outras ferramentas  
 
 ---
 
