@@ -2,6 +2,7 @@
 
 🎓 Aprendizagem Industrial em asistente adiministrativo termino em 2024 e  programador de sistemas 
  Estudante da Aprendizagem Industrial em programador de sistemas da informação.(SENAI) contratado pela Empresa
+ 
 🎓Estudante do 2° segundo ano da escola cecília vivam
  
 💻 Interessado em tecnologia, programação e inovação  
