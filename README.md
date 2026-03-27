@@ -38,7 +38,7 @@ Meu objetivo é desenvolver habilidades tecnológicas e criar projetos que contr
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
-📌 Projeto 1 – criar um site. 
+📌 Projeto 1 –[https://vanessabarp-blip.github.io/site2/]
 
 📌 Projeto 2 – desenvolver um projeto inovador.
 
