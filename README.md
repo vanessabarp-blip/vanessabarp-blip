@@ -1,9 +1,10 @@
 # 👋 Olá, eu sou Vanessa Samanta Barp
 
-🎓 Aprendizagem Industrial em asistente adiministrativo termino em 2024 e  programador de sistemas 
- Estudante da Aprendizagem Industrial em programador de sistemas da informação.(SENAI) contratado pela Empresa
+🎓 Aprendizagem Industrial em Assistente Administrativo (SENAI - 2024). Contratado pela Empresa SEARA ALIMENTOS
+
+🎓 Estudante da Aprendizagem Industrial em programador de sistemas da informação.(SENAI). Contratado pela Empresa SEARA ALIMENTOS
  
-🎓Estudante do 2° segundo ano da escola cecília vivam
+🎓Estudante do 2° Ano da Escola Estadual Cecília Vivam
  
 💻 Interessado em tecnologia, programação e inovação  
 
