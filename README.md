@@ -37,9 +37,9 @@ Meu objetivo é desenvolver habilidades tecnológicas e criar projetos que contr
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
-📌 Projeto 1 – criar um site  
-📌 Projeto 2 – desenvolver um projeto inovador
-📌 Projeto 3 – e criar muitas outras ferramentas  
+📌 Projeto 1 – criar um site.  
+📌 Projeto 2 – desenvolver um projeto inovador.
+📌 Projeto 3 – e criar muitas outras ferramentas. 
 
 ---
 
